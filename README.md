@@ -41,7 +41,8 @@ Angel con trompeta
 -Servo
 -Altavoz
 Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
+![texto alternativo ]()
 
 ## Base de datos
-![texto alternativo ]()
+![Base de datos ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.08%20PM.jpeg)
 
