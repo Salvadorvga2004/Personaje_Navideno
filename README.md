@@ -29,8 +29,8 @@ Angel con trompeta
 |MySQL|8.0|Software libre|
 
 ## Dibujo del prototipo a desarrollar
-![texto alternativo ](URL de la imagen)
-![texto alternativo ](URL de la imagen)
+![Prototipo ](URL de la imagen)
+
 
 ## Comunicación
 -Lo que tenemos pensado para la interacción del muñeco es una comunicación por wifi, ya que este es más accesible en el entorno donde se llevará a cabo la presentación ademas de que es más estable.
@@ -41,7 +41,7 @@ Angel con trompeta
 -Servo
 -Altavoz
 Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
-![texto alternativo ]()
+![Arquitectura de angel](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM.jpeg)
 
 ## Base de datos
 ![Base de datos ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.08%20PM.jpeg)
