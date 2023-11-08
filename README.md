@@ -13,8 +13,8 @@ Angel con trompeta
 |Alambron|Alambre que dará soporte al angel|1 m|$10|
 |Muñeco|Extremidades para el angel|1|$60|
 |Rollo de hilo blanco|Hilo para bordar extremidades y ropa|1|$10|
-|Altavoz|Reproducira el sonido|1|$150|
-|Foco led|Iluminar al angel|1|$15|
+|Buzzer|Reproducira la melodia|1|$55|
+|Foco RGB|Iluminar al angel|1|$15|
 |Bolsa de algodon|Material para rellenar alas|1|$5|
 |1 hoja de papel dorado|Material para aureola y trompeta|1|$3|
 
@@ -33,13 +33,14 @@ Angel con trompeta
 
 
 ## Comunicación
--Lo que tenemos pensado para la interacción del muñeco es una comunicación por wifi, ya que este es más accesible en el entorno donde se llevará a cabo la presentación ademas de que es más estable.
+-utilizaremos una placa ESP32 la cual ira conectada a un controlador, el cual controlará el motor, tambien se agregará un buzzer y un RGB 
+todo esto controlado por medio de la ESP32 mediante WI-FI
 
 ## Arquitectura
 -El angel principalmente contará con la placa ESP32 la cual sera la que dará ordenes a nuestros actuadores, los actuadores que utilizaremos son los siguientes:
--Foco led
+-Foco RGB
 -Servo
--Altavoz
+-Buzzer
 Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 ![Arquitectura de angel](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM.jpeg)
 
