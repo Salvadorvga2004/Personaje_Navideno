@@ -37,10 +37,10 @@ Angel con trompeta
 -Utilizaremos una placa ESP32 la cual mantendra comunicación Bluetooth con la Aplicación Arduino Bluetooth Controler descargada en nuestro dispositivo móvil, desde ella podremos controlar el movimiento de las alas de nuestro angel y el led que funciona como corona.
 
 ## Arquitectura
--El angel principalmente contará con la placa ESP32 la cual sera la que dará ordenes a nuestros actuadores, los actuadores que utilizaremos son los siguientes:
--Foco RGB
--Servo
--Buzzer
+-El angel principalmente contará con la placa ESP32 la cual sera la que dará ordenes a nuestros actuadores, los actuadores que utilizaremos son los siguientes:                      
+-Foco RGB                                    
+-Servo                                        
+-Buzzer                                           
 Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 ![Arquitectura de angel](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/WhatsApp%20Image%202023-09-28%20at%205.13.07%20PM.jpeg)
 
