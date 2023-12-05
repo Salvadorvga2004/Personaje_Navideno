@@ -49,9 +49,9 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 
 ## Proceso de realización
 *Adherimos cuatro palos de madera y los amarramos para que fuera el cuerpo del angel.                                
-*Pegamos los cuatro palos a una base de unicel fijandolos con silicón.
-*Con la tela que compramos himimos dos brazos, y dos manos.
-*Rellenamos las manos para posteriormente unirlas con hilo a los brazos.
+*Pegamos los cuatro palos a una base de unicel fijandolos con silicón.                                     
+*Con la tela que compramos himimos dos brazos, y dos manos.                                            
+*Rellenamos las manos para posteriormente unirlas con hilo a los brazos.                                   
 *Rellenamos los brazos.
 *Cortamos dos pedazos de alambre y los metimos dentro de ellos para darles forma y soporte.
 *Uno de ellos lo amarramos a la estructura ya creada.
