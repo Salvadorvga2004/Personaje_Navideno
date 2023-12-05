@@ -68,7 +68,7 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 *Pegamos un buzer a la misma estructura para que no se moviera.                                               
 *Pegamos la cabeza en la parte superior del angel con ayuda de silicon y una base de plastico, con ello quedó bien fijado.           
 *Hasta el momento fue todo lo que hicimos con estos componentes, despúes de tener todo en su lugar cargamos el código en la placa ESP32 para hacer ajustes respecto al funcionamiento (este código fue realizado por los miembros del equipo.                     
-*Al quedar lista la primera parte de componentes procedimos a vestir de la parte de enfrente a nuestro angel, pues lo vestimos en partes. 
+*Al quedar lista la primera parte de componentes procedimos a vestir de la parte de enfrente a nuestro angel, pues lo vestimos en partes.  
 *Conectamos una segunda ESP32 en ella conectamos un segundo servo y tambien un led.                              
 *Continuamos con el mecanismo de las alas, para ello formamos dos alas con ayuda de alambre, adherimos unas bases pegadas a la espalda de la estructura y en ellas pusimos las alas dandoles estabilidad, a ellas hicimos que un par de alambre las jalará desde la parte de abajo con un servo lo cual iba a hacer que estas se abrieran y se cerraran.                                     
 *Pegamos un led a la cabeza del angel que hará parecer que es una corona del angel.                              
