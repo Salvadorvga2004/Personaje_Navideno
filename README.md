@@ -83,8 +83,8 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 
 ## Imagenes del proceso
 ![Imagen 1 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel1.png)
-![Imagen 2 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel2.png)
 ![Imagen 3 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel3.png)
+![Imagen 2 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel2.png)
 ![Imagen 4 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel4.png)
 
 
