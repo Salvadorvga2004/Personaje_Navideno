@@ -81,7 +81,9 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 *Hicimos nuestras pruebas finales     
 
 
-## 
+## Imagenes del proceso
+![Imagen 1 ](https://github.com/Alejandrox666/Personaje_Navideno/blob/main/Angel1.png)
+
 
 
 
