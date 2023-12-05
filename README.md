@@ -62,7 +62,24 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 *Conectamos un sensor de proximidad.
 *Conectamos un buzer.
 *Despues de estas conexiones pegamos un servo a la estructura, a la altura de los brazos para pegar el brazo restante a él y que el brazo realize un movimiento el cual consite en levantar su brazo para tocar la trompeta.
+*Creamos la tropeta con cartulina y la pegamos al brazo del angel.
 *Construimos una base de palitos dentro de la estructura del angel para poner todos nuestros componentes junto con la protoboard.
 *Hicimos un agujero en la placa de unicel para pasar los 5 focos por debajo de ella y volver a sacarlos más enfrente.
+*Pegamos un buzer a la misma estructura para que no se moviera.
+*Pegamos la cabeza en la parte superior del angel con ayuda de silicon y una base de plastico, con ello quedó bien fijado.
+*Hasta el momento fue todo lo que hicimos con estos componentes, despúes de tener todo en su lugar cargamos el código en la placa ESP32 para hacer ajustes respecto al funcionamiento (este código fue realizado por los miembros del equipo.
+*Al quedar lista la primera parte de componentes procedimos a vestir de la parte de enfrente a nuestro angel, pues lo vestimos en partes.
+*Conectamos una segunda ESP32 en ella conectamos un segundo servo y tambien un led.
+*Continuamos con el mecanismo de las alas, para ello formamos dos alas con ayuda de alambre, adherimos unas bases pegadas a la espalda de la estructura y en ellas pusimos las alas dandoles estabilidad, a ellas hicimos que un par de alambre las jalará desde la parte de abajo con un servo lo cual iba a hacer que estas se abrieran y se cerraran.
+*Pegamos un led a la cabeza del angel que hará parecer que es una corona del angel
+*Cargamos el código en la ESP32 utilizando Arduino, al estar cargado realizamos los ajustes necesarios para un correcto funcionamiento de las alas.
+*Añadimos la comunicación bluetooth al código ya cargado, el cual nos ayudará a mantener una correcta comunicación y control de la función del movimiento de las alas y el led que agregamos al final.
+*Vestimos por completo al angel.
+*Pintamos la cara del angel.
+*Pegamos relleno en las alas para que simularan unas alas de un angel.
+*Pegamos relleno en la base del angel para que simulara que estaba sobre las nubes.
+*Hicimos nuestras pruebas finales
+
+*
 
 
