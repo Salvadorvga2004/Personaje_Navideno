@@ -55,4 +55,14 @@ Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
 *Rellenamos los brazos.
 *Cortamos dos pedazos de alambre y los metimos dentro de ellos para darles forma y soporte.
 *Uno de ellos lo amarramos a la estructura ya creada.
+*Para continuar con lo siguiente realizamos las conexiones pertinentes con nuestros componentes.
+*Conectamos nuestra placa ESP32 a la protoboard.
+*Conectamos un servo. 
+*Conectamos 5 leds.
+*Conectamos un sensor de proximidad.
+*Conectamos un buzer.
+*Despues de estas conexiones pegamos un servo a la estructura, a la altura de los brazos para pegar el brazo restante a él y que el brazo realize un movimiento el cual consite en levantar su brazo para tocar la trompeta.
+*Construimos una base de palitos dentro de la estructura del angel para poner todos nuestros componentes junto con la protoboard.
+*Hicimos un agujero en la placa de unicel para pasar los 5 focos por debajo de ella y volver a sacarlos más enfrente.
+
 
