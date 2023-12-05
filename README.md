@@ -16,7 +16,7 @@ Angel con trompeta
 |Focos led|Iluminar al angel|7|$15|
 |Bolsa de algodon|Material para rellenar alas|1|$5|
 |1 hoja de papel dorado|Material para aureola y trompeta|1|$3|
-|Sensor de proximidad|1|$60|
+|Sensor de proximidad|Ayudara a realizar movimientos cuando alguien se aserque|1|$60|
 
 
 
@@ -25,7 +25,7 @@ Angel con trompeta
 |-|-|-|
 |Thonny|4.1.2|Software libre|
 |Arduino|2.2.1|Software libre|
-|Arduino Bluetooth controler|1.3|Software libre|
+|Arduino Bluetooth controller|1.3|Software libre|
 
 
 
@@ -34,11 +34,11 @@ Angel con trompeta
 
 
 ## Comunicación
--Utilizaremos una placa ESP32 la cual mantendra comunicación Bluetooth con la Aplicación Arduino Bluetooth Controler descargada en nuestro dispositivo móvil, desde ella podremos controlar el movimiento de las alas de nuestro angel y el led que funciona como corona.
+-Utilizaremos una placa ESP32 la cual mantendra comunicación Bluetooth con la Aplicación Arduino Bluetooth Controller descargada en nuestro dispositivo móvil, desde ella podremos controlar el movimiento de las alas de nuestro angel y el led que funciona como corona.
 
 ## Arquitectura
 -El angel principalmente contará con la placa ESP32 la cual sera la que dará ordenes a nuestros actuadores, los actuadores que utilizaremos son los siguientes:                      
--Foco RGB                                    
+-Foco Led                                    
 -Servo                                        
 -Buzzer                                           
 Al dar una orden especifica el angel actuará de acuerdo a la orden dada.
